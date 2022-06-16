@@ -2,7 +2,7 @@
 public class s2 extends s1{
              //Runtime Polymorphism
 public void m2()  // Method Overriding  
-{String a="akkk";
+{String a="Try github";
 {System.out.println(a);}}
 
 public static void main(String[] args) {
